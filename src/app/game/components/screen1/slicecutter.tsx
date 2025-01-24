@@ -108,7 +108,7 @@ export default function SliceCutter({ mixedFraction }: { mixedFraction: MixedFra
 
         <div className="w-[731px] flex-col justify-center items-center mx-auto p-4 text-[45px] m-[64px]">
           <div className="font-normal  bg-lime-200 text-black text-center mx-auto p-3 rounded-t-sm">
-            AWSOME
+            AWESOME
           </div>
           <div className="h-[200px] flex justify-center items-center text-center gap-4 mx-auto  bg-[#f6f4c5] rounded-b-sm">
             <span>3 wholes =</span>
